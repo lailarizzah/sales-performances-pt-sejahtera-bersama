@@ -33,6 +33,7 @@ The analysis covers sales transactions between January 2020 and September 2021, 
 ---
 
 ## Dashboard Preview  
+![Dashboard Preview](dashboard/Dashboard_Sales_Performances.png)
 Interactive dashboard built in Looker Studio featuring:  
 - KPI cards (Revenue, Orders, Quantity, AOV)  
 - Monthly sales trend line chart  
@@ -78,7 +79,7 @@ Interactive dashboard built in Looker Studio featuring:
 ---
 
 ## Repository Structure  
-- `dashboard_screenshots/` → Dashboard preview images  
+- `dashboard/` → Dashboard preview images  
 - `queries/` → SQL queries used for analysis  
-- `presentation/` → Final PPT with insights & recommendations  
+- `presentasi/` → Final PPT with insights & recommendations  
 - `README.md` → Project documentation report  
